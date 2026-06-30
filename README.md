@@ -300,7 +300,7 @@ Engineering applications that see, understand, and reason about visual content u
 - ✅ Response validation and output schema enforcement
 - ✅ Cost-aware token optimization
 - ✅ Context window management for long sessions
-- ✅ RAG architecture patterns for knowledge-augmented systems
+
 
 ---
 
@@ -430,32 +430,32 @@ Engineering applications that see, understand, and reason about visual content u
 ## 🗺️ Engineering Journey
 
 ```
- 2020  ┌─────────────────────────────────────────────────────────────────┐
+ 2022 ┌─────────────────────────────────────────────────────────────────┐
        │  🎓  Started B.Tech — Computer Science & Engineering            │
        └──────────────────────────────┬──────────────────────────────────┘
                                       │
- 2021  ┌──────────────────────────────▼──────────────────────────────────┐
+ 2023  ┌──────────────────────────────▼──────────────────────────────────┐
        │  💻  Foundations — Data Structures, Algorithms, Java            │
        │       Core CS concepts · Problem solving · DSA in Java          │
        └──────────────────────────────┬──────────────────────────────────┘
                                       │
- 2022  ┌──────────────────────────────▼──────────────────────────────────┐
+ 2024  ┌──────────────────────────────▼──────────────────────────────────┐
        │  🎨  Frontend Engineering — HTML, CSS, JavaScript               │
        │       Responsive design · UI/UX fundamentals · DOM mastery      │
        └──────────────────────────────┬──────────────────────────────────┘
                                       │
- 2023  ┌──────────────────────────────▼──────────────────────────────────┐
+ 2024  ┌──────────────────────────────▼──────────────────────────────────┐
        │  ⚛️  Modern Frontend — React, TypeScript, Next.js               │
        │  ⚙️  Backend Engineering — Node.js, Express, MongoDB, SQL       │
        │       Full Stack MERN · REST APIs · Database design             │
        └──────────────────────────────┬──────────────────────────────────┘
                                       │
- 2024  ┌──────────────────────────────▼──────────────────────────────────┐
+ 2025  ┌──────────────────────────────▼──────────────────────────────────┐
        │  🤖  AI Engineering — OpenAI, Claude, Gemini APIs               │
        │       Prompt engineering · Vision models · AI-powered apps      │
        └──────────────────────────────┬──────────────────────────────────┘
                                       │
- 2025  ┌──────────────────────────────▼──────────────────────────────────┐
+ 2026  ┌──────────────────────────────▼──────────────────────────────────┐
        │  ⚡  Advanced AI — MCP, AI Agents, Multimodal Systems           │
        │  🏗️  System Design · Software Architecture · Clean Code         │
        │       Production-grade applications · Open Source               │
@@ -475,8 +475,7 @@ Engineering applications that see, understand, and reason about visual content u
 
 | Area | Progress | Priority |
 |------|----------|----------|
-| Advanced React Patterns | `████████░░` 80% | 🔴 High |
-| System Design | `██████░░░░` 60% | 🔴 High |
+| Advanced React Patterns | `██████░░` 60% | 🔴 High |
 | AI Agent Development | `███████░░░` 70% | 🔴 High |
 | FastAPI & Python Backend | `█████░░░░░` 50% | 🟡 Medium |
 | Docker & Containerization | `████░░░░░░` 40% | 🟡 Medium |
