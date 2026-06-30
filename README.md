@@ -34,11 +34,11 @@
 <div align="center">
 
 ```
-                    ╔══════════════════════════════════════════════════════════════════════╗
-                     ║   "Great software is not about writing code — it's about solving    ║
-                     ║    problems elegantly, engineering with intention, and building     ║
-                     ║                 systems that last."                                 ║
-                     ╚══════════════════════════════════════════════════════════════════════╝
+                          ╔══════════════════════════════════════════════════════════════════════╗
+                           ║   "Great software is not about writing code — it's about solving    ║
+                           ║    problems elegantly, engineering with intention, and building     ║
+                           ║                 systems that last."                                 ║
+                          ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
